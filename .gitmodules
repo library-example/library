@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:library-example/backend.git
+[submodule "test"]
+	path = test
+	url = git@github.com:library-example/test.git
