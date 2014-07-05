@@ -6,3 +6,4 @@ TODO
  - add phantomjs tests
  - write about configuration management
  - write about reports (what will be reported and when?)
+ - testplanung
